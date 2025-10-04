@@ -21,26 +21,30 @@ Results are saved into a `.txt` file for easy reference.
 ---
 
 ## 📂 Repository Structure  
-
 ```
 OpenStreetMap-data-scraping/
 │
-├── LICENSE                     # MIT License file
-├── README.md                   # Project documentation
-├── map_features.json           # JSON file with available OSM keys and values
-├── osm_data_management.py      # Main application file (Tkinter GUI + OSM query logic)
-├── osm_project_files.rar       # Compressed project files
-├── screenshots/                # Screenshots for documentation
-│   ├── IMG_1                   # Screenshot 1
-│   ├── IMG_2                   # Screenshot 2
-│   ├── IMG_3                   # Screenshot 3
-│   ├── IMG_4                   # Screenshot 4
-│   ├── IMG_5                   # Screenshot 5
-│   ├── IMG_6                   # Screenshot 6
-│   └── IMG_7                   # Screenshot 7
-└── .gitignore                  # Git ignore file
+├── LICENSE                         # MIT License file
+├── README.md                       # Project documentation
+├── map_features.json               # JSON file with available OSM keys and values
+├── osm_data_management.py          # Main application file (Tkinter GUI + OSM query logic)
+├── app_files/                      # Folder containing additional app files
+│   ├── .gitattributes
+│   ├── .gitkeep
+│   ├── folium_map.html
+│   ├── osm_data_management.exe
+│   └── query_results.txt
+├── osm_project_files.rar           # Compressed project files
+├── screenshots/                    # Screenshots for documentation
+│   ├── IMG_1
+│   ├── IMG_2
+│   ├── IMG_3
+│   ├── IMG_4
+│   ├── IMG_5
+│   ├── IMG_6
+│   └── IMG_7
+└── .gitignore                      # Git ignore file
 ```
-
 ---
 
 ## 🖥️ Usage  
@@ -61,6 +65,35 @@ OpenStreetMap-data-scraping/
 
 4. **Results**:  
    - Stored in `results.txt` in the working directory.  
+
+---
+## 🖼️ Screenshots
+
+Here are some screenshots of the application in action:
+
+<!-- IMG_1 alone -->
+<p align="center" style="margin-bottom: 30px;">
+  <img src="screenshots/IMG_1.png" alt="Screenshot 1" width="500"/>
+</p>
+
+<!-- IMG_2 and IMG_3 side by side -->
+<p align="center" style="margin-bottom: 30px;">
+  <img src="screenshots/IMG_2.png" alt="Screenshot 2" width="400" style="margin-right: 20px;"/>
+  <img src="screenshots/IMG_3.png" alt="Screenshot 3" width="400"/>
+</p>
+
+<!-- IMG_4 and IMG_5 side by side -->
+<p align="center" style="margin-bottom: 30px;">
+  <img src="screenshots/IMG_4.png" alt="Screenshot 4" width="400" style="margin-right: 20px;"/>
+  <img src="screenshots/IMG_5.png" alt="Screenshot 5" width="400"/>
+</p>
+
+<!-- IMG_6 and IMG_7 side by side -->
+<p align="center" style="margin-bottom: 30px;">
+  <img src="screenshots/IMG_6.png" alt="Screenshot 6" width="400" style="margin-right: 20px;"/>
+  <img src="screenshots/IMG_7.png" alt="Screenshot 7" width="400"/>
+</p>
+
 
 ---
 
