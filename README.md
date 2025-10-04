@@ -23,23 +23,22 @@ Results are saved into a `.txt` file for easy reference.
 ## 📂 Repository Structure  
 
 ```
-osm-data-manipulator/
+OpenStreetMap-data-scraping/
 │
-├── osm_data_manipulator.py   # Main application file (Tkinter GUI + OSM query logic)
-├── map_features.json         # JSON file with available OSM keys and values
-├── requirements.txt          # Python dependencies
-├── search.ico                # Application icon
-├── results.txt               # Generated automatically, stores query results
-├── screenshots/              # Screenshots for documentation
-│   ├── IMG_1
-│   ├── IMG_2
-│   ├── IMG_3
-│   ├── IMG_4
-│   ├── IMG_5
-│   ├── IMG_6
-│   └── IMG_7
-└── README.md                 # Project documentation
-
+├── LICENSE                     # MIT License file
+├── README.md                   # Project documentation
+├── map_features.json           # JSON file with available OSM keys and values
+├── osm_data_management.py      # Main application file (Tkinter GUI + OSM query logic)
+├── osm_project_files.rar       # Compressed project files
+├── screenshots/                # Screenshots for documentation
+│   ├── IMG_1                   # Screenshot 1
+│   ├── IMG_2                   # Screenshot 2
+│   ├── IMG_3                   # Screenshot 3
+│   ├── IMG_4                   # Screenshot 4
+│   ├── IMG_5                   # Screenshot 5
+│   ├── IMG_6                   # Screenshot 6
+│   └── IMG_7                   # Screenshot 7
+└── .gitignore                  # Git ignore file
 ```
 
 ---
@@ -135,7 +134,6 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/sotdimakis/OpenStreetMap-data-scraping.git
 cd osm-data-manipulator
-pip install -r requirements.txt
 ```
 
 ---
