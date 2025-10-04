@@ -1,0 +1,576 @@
+Name: Γρηγόρης
+ID: : 437564876
+Coordinates: 37.6895868, 26.9425459
+Phone: 
+Address:  
+
+Name: 
+ID: : 505070496
+Coordinates: 39.3170592, 26.3377926
+Phone: 
+Address:  
+
+Name: Το Ψηστήρι
+ID: : 1305104874
+Coordinates: 37.794298, 26.6822773
+Phone: 
+Address:  
+
+Name: 
+ID: : 1354924414
+Coordinates: 37.791327, 26.704877
+Phone: 
+Address:  
+
+Name: Bacchus
+ID: : 1595963314
+Coordinates: 37.7924765, 26.7009583
+Phone: 
+Address:  
+
+Name: 
+ID: : 1917014930
+Coordinates: 37.6707824, 26.8872401
+Phone: 
+Address:  
+
+Name: 
+ID: : 2368379584
+Coordinates: 39.1029302, 26.5563684
+Phone: 
+Address:  
+
+Name: Το κάτι άλλο
+ID: : 2425949389
+Coordinates: 39.1111557, 26.5574921
+Phone: 
+Address:  
+
+Name: 
+ID: : 2469920533
+Coordinates: 37.6643545, 26.8829455
+Phone: 
+Address:  
+
+Name: Βοτσαλάκι
+ID: : 2469920552
+Coordinates: 37.6637438, 26.8824287
+Phone: 
+Address:  
+
+Name: souvlaki.gr
+ID: : 2975820451
+Coordinates: 39.8750721, 25.0599069
+Phone: 
+Address:  
+
+Name: Goody's
+ID: : 2991961557
+Coordinates: 38.3672012, 26.13942
+Phone: 
+Address:  
+
+Name: Friends Grill House
+ID: : 3165321809
+Coordinates: 39.3666508, 26.1759216
+Phone: 
+Address:  
+
+Name: 
+ID: : 3165321813
+Coordinates: 39.1352431, 25.9307
+Phone: 
+Address:  
+
+Name: 
+ID: : 3674576370
+Coordinates: 39.2122107, 26.4755679
+Phone: 
+Address:  
+
+Name: Καραϊσκος
+ID: : 3805405911
+Coordinates: 39.0195883, 26.2018738
+Phone: 
+Address:  
+
+Name: Μπαμπάς Μαμ...
+ID: : 3864800886
+Coordinates: 39.1067952, 26.5584199
+Phone: 
+Address:  
+
+Name: Pizza Fan
+ID: : 3864806358
+Coordinates: 39.0974871, 26.5554282
+Phone: 
+Address:  
+
+Name: Barono agora
+ID: : 3864807062
+Coordinates: 39.1070563, 26.5563855
+Phone: 
+Address:  
+
+Name: I'l gusto
+ID: : 3864807281
+Coordinates: 38.9759025, 26.3684912
+Phone: 
+Address:  
+
+Name: Το Μικρό Καφέ
+ID: : 3864807376
+Coordinates: 39.3090749, 26.3348069
+Phone: 
+Address:  
+
+Name: Il posto
+ID: : 3864807559
+Coordinates: 39.107602, 26.5566708
+Phone: 
+Address:  
+
+Name: Ψηλορείτης
+ID: : 3864808205
+Coordinates: 39.1055475, 26.5589228
+Phone: 
+Address:  
+
+Name: Yummy food
+ID: : 3864812257
+Coordinates: 39.1024676, 26.5557785
+Phone: 
+Address:  
+
+Name: Nanou
+ID: : 3864812389
+Coordinates: 39.0969716, 26.5546887
+Phone: 
+Address:  
+
+Name: Φάρος
+ID: : 4161777496
+Coordinates: 39.206255, 26.2093202
+Phone: 
+Address:  
+
+Name: Απόλαυση
+ID: : 4319273730
+Coordinates: 38.9747039, 26.3705037
+Phone: 
+Address:  
+
+Name: Meat House
+ID: : 4332854525
+Coordinates: 39.1450091, 26.5284638
+Phone: 
+Address:  
+
+Name: Crepasta
+ID: : 4343023334
+Coordinates: 38.3702541, 26.1377052
+Phone: +30 2271 080315
+Address: Αιγαίου 32
+
+Name: Αστερι
+ID: : 4505172797
+Coordinates: 38.3702547, 26.1356316
+Phone: 
+Address:  
+
+Name: Τα 3 γουρουνακια
+ID: : 4505305789
+Coordinates: 38.3680409, 26.1376087
+Phone: 
+Address:  
+
+Name: Everest
+ID: : 4596746489
+Coordinates: 38.3676184, 26.1384437
+Phone: 
+Address:  
+
+Name: Dino
+ID: : 4672285596
+Coordinates: 37.791425, 26.7049539
+Phone: 
+Address:  
+
+Name: Αλμυρα
+ID: : 4905834821
+Coordinates: 37.5989432, 26.5330887
+Phone: 
+Address:  
+
+Name: ΚΑΑΥ Σάμου
+ID: : 5027243724
+Coordinates: 37.6828076, 26.9095745
+Phone: 
+Address:  
+
+Name: Θεοδοσιου
+ID: : 5101867822
+Coordinates: 38.3388055, 26.1430559
+Phone: 
+Address:  
+
+Name: 
+ID: : 5426933921
+Coordinates: 39.3105525, 26.3349346
+Phone: 
+Address:  
+
+Name: canteen
+ID: : 5751977615
+Coordinates: 39.1070591, 25.9642858
+Phone: 
+Address:  
+
+Name: canteen
+ID: : 5752003353
+Coordinates: 39.1069139, 25.9591749
+Phone: 
+Address:  
+
+Name: Πάμε πακέτο
+ID: : 5929313197
+Coordinates: 39.075463, 26.5715372
+Phone: 
+Address:  
+
+Name: Kokkari Grill
+ID: : 6448322615
+Coordinates: 37.7787024, 26.8931652
+Phone: 
+Address:  
+
+Name: Mr Burger
+ID: : 6469760565
+Coordinates: 39.1073469, 26.5581547
+Phone: +302251048988
+Address: Λαδάδικα 33
+
+Name: 
+ID: : 6469761086
+Coordinates: 39.206469, 26.2106643
+Phone: 
+Address:  
+
+Name: Zivaeri
+ID: : 6563062585
+Coordinates: 37.6155751, 26.2952615
+Phone: 
+Address:  
+
+Name: kaipente
+ID: : 6578712485
+Coordinates: 37.6119461, 26.2938902
+Phone: 
+Address:  
+
+Name: Πίτα Μάκης
+ID: : 8333951671
+Coordinates: 39.0967389, 26.5530546
+Phone: 
+Address:  
+
+Name: Σεβαστός
+ID: : 8364178718
+Coordinates: 37.793916, 26.7063086
+Phone: 
+Address:  
+
+Name: Boston Pizza
+ID: : 8454874971
+Coordinates: 39.100856, 26.5540425
+Phone: 
+Address:  
+
+Name: Χρήστος
+ID: : 8497673752
+Coordinates: 39.1028563, 26.557392
+Phone: 
+Address:  
+
+Name: Street food
+ID: : 8510308508
+Coordinates: 38.9750714, 26.3689996
+Phone: 
+Address:  
+
+Name: Pizza Elena
+ID: : 8514465575
+Coordinates: 39.104414, 26.5601624
+Phone: 00302251027822
+Address:  
+
+Name: στρο
+ID: : 9382616765
+Coordinates: 39.1077388, 26.5571962
+Phone: 
+Address:  
+
+Name: Basfanar koulour
+ID: : 9716220689
+Coordinates: 39.1072807, 26.5565561
+Phone: 
+Address:  
+
+Name: La Masa
+ID: : 9726242847
+Coordinates: 39.092936, 26.5513502
+Phone: 
+Address:  
+
+Name: Zero
+ID: : 10576238811
+Coordinates: 39.1074917, 26.5583407
+Phone: 
+Address:  
+
+Name: 
+ID: : 10604285811
+Coordinates: 38.3701423, 26.1352313
+Phone: 
+Address:  
+
+Name: 
+ID: : 10607804705
+Coordinates: 38.3676067, 26.1350253
+Phone: 
+Address:  
+
+Name: Steki
+ID: : 10607805805
+Coordinates: 38.369058, 26.1370192
+Phone: 
+Address: Βενιζέλου 44
+
+Name: 
+ID: : 10828659902
+Coordinates: 39.1067615, 26.5624322
+Phone: 
+Address:  
+
+Name: Piccolo
+ID: : 10841848195
+Coordinates: 39.8783936, 25.0620395
+Phone: 
+Address:  
+
+Name: Teleion plus
+ID: : 10886219252
+Coordinates: 37.7560734, 26.976196
+Phone: 
+Address:  
+
+Name: Felouk
+ID: : 10906023432
+Coordinates: 39.1071218, 26.557757
+Phone: 
+Address:  
+
+Name: Οβελιστηριο Θεοπιστης
+ID: : 11105885921
+Coordinates: 38.3709841, 26.137308
+Phone: 
+Address:  
+
+Name: 
+ID: : 11123820093
+Coordinates: 38.2277316, 25.9993161
+Phone: 
+Address:  
+
+Name: Robinson
+ID: : 11286197404
+Coordinates: 37.6902491, 26.9396259
+Phone: 
+Address:  
+
+Name: Grill Ellinikon
+ID: : 11286210603
+Coordinates: 37.6901861, 26.9400659
+Phone: 
+Address:  
+
+Name: Ψητοπωλείο
+ID: : 11286217479
+Coordinates: 37.690015, 26.9410721
+Phone: 
+Address:  
+
+Name: to perasma tou kokkariou
+ID: : 12015516058
+Coordinates: 37.7782708, 26.8922353
+Phone: 
+Address:  
+
+Name: 
+ID: : 12155112543
+Coordinates: 39.0367849, 26.4563972
+Phone: 
+Address:  
+
+Name: Delooloo
+ID: : 12913184457
+Coordinates: 38.368229, 26.134848
+Phone: 
+Address:  
+
+Name: Ο Αιμίλιος 2
+ID: : 12914312300
+Coordinates: 38.3702879, 26.1355291
+Phone: 
+Address: Γλαύκου 3
+
+Name: Οβελιστήριο "Ο Αλέκος"
+ID: : 13070590596
+Coordinates: 38.369979, 26.1353172
+Phone: 
+Address:  
+
+Name: Καντίνα
+ID: : 257685889
+Coordinates: 39.1208954, 26.4556327
+Phone: 
+Address:  
+
+Name: Goody's
+ID: : 269803273
+Coordinates: 39.1067364, 26.5585119
+Phone: 
+Address:  
+
+Name: Το Λιμανάκι της Γεύσης
+ID: : 377128251
+Coordinates: 39.0429312, 26.5065757
+Phone: 
+Address:  
+
+Name: Marina Café Restaurant
+ID: : 423448704
+Coordinates: 37.6916629, 26.9544616
+Phone: 
+Address:  
+
+Name: Γυροπεράσματα
+ID: : 442813166
+Coordinates: 39.1416615, 26.5290684
+Phone: 
+Address:  
+
+Name: Spicy
+ID: : 491320355
+Coordinates: 39.107191, 26.5581591
+Phone: 00302251042502
+Address: Αθανασίου Μητρέλια 46
+
+Name: Αγία Παρασκευή
+ID: : 525218802
+Coordinates: 39.1038097, 26.5541338
+Phone: 
+Address:  
+
+Name: Πέτρινη Γωνιά
+ID: : 836412934
+Coordinates: 39.8754833, 25.270534
+Phone: +30 22540 71875
+Address:  
+
+Name: Mezzo
+ID: : 867098989
+Coordinates: 39.1069615, 26.5583713
+Phone: 00302251043774
+Address: Παύλου Κουντουριώτη 49
+
+Name: Κάτι... ψήνεται
+ID: : 872006877
+Coordinates: 39.097458, 26.5555569
+Phone: 
+Address:  
+
+Name: Τα Στρουμφ
+ID: : 904393435
+Coordinates: 39.1111068, 26.5573614
+Phone: 
+Address:  
+
+Name: Reem
+ID: : 911886459
+Coordinates: 39.1070041, 26.5579581
+Phone: 
+Address:  
+
+Name: 5 Φ
+ID: : 916260191
+Coordinates: 38.9751756, 26.3693716
+Phone: 
+Address:  
+
+Name: παράνομη καντίνα
+ID: : 916338742
+Coordinates: 38.9746678, 26.3676118
+Phone: 
+Address:  
+
+Name: Το Καλντερίμι
+ID: : 973134742
+Coordinates: 39.3275437, 26.1755559
+Phone: 
+Address:  
+
+Name: Crepe Petra
+ID: : 973134743
+Coordinates: 39.3275919, 26.175533
+Phone: 
+Address:  
+
+Name: 
+ID: : 1041507992
+Coordinates: 39.1360503, 26.5392017
+Phone: 
+Address:  
+
+Name: Street souvlaki
+ID: : 1054636534
+Coordinates: 39.1073282, 26.5564847
+Phone: 
+Address: Ερμού 113
+
+Name: Το Πλατανάκι
+ID: : 1086407568
+Coordinates: 39.1571614, 26.5219559
+Phone: 
+Address:  
+
+Name: Via Vai street food
+ID: : 1128006633
+Coordinates: 39.1069066, 26.5569914
+Phone: 
+Address:  
+
+Name: La casa de crepe
+ID: : 1128006635
+Coordinates: 39.106981, 26.5569741
+Phone: 
+Address:  
+
+Name: Καλοφαγάς
+ID: : 1134937268
+Coordinates: 39.1045626, 26.5518905
+Phone: 
+Address:  
+
+Name: 
+ID: : 1194779096
+Coordinates: 39.017375, 26.5692076
+Phone: 
+Address:  
+
+Name: Πλατανάκι
+ID: : 1303019265
+Coordinates: 39.0196883, 26.2037559
+Phone: 
+Address:  
+
