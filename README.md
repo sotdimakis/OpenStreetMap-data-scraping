@@ -170,3 +170,13 @@ pip install pillow overpy shapely geopandas folium
 ## 🤝 Contributing  
 
 Contributions are welcome! Please submit issues or pull requests.  
+
+---
+
+## License
+
+This project is licensed under the MIT License.  
+Copyright (c) 2024-2025 Sotiris Dimakis.  
+
+See the [LICENSE](LICENSE) file for more details.
+
