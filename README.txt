@@ -129,7 +129,7 @@ Example snippet:
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/yourusername/osm-data-manipulator.git
+git clone https://github.com/sotdimakis/OpenStreetMap-data-scraping.git
 cd osm-data-manipulator
 pip install -r requirements.txt
 ```
