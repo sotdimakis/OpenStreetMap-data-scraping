@@ -28,14 +28,18 @@ osm-data-manipulator/
 ├── osm_data_manipulator.py   # Main application file (Tkinter GUI + OSM query logic)
 ├── map_features.json         # JSON file with available OSM keys and values
 ├── requirements.txt          # Python dependencies
-├── search.png                # Icon for the search button in the GUI
-├── osm.ico                   # Application icon
+├── search.ico                # Application icon
 ├── results.txt               # Generated automatically, stores query results
 ├── screenshots/              # Screenshots for documentation
-│   ├── gui.png
-│   ├── map_results.png
-│   └── heatmap.png
+│   ├── IMG_1
+│   ├── IMG_2
+│   ├── IMG_3
+│   ├── IMG_4
+│   ├── IMG_5
+│   ├── IMG_6
+│   └── IMG_7
 └── README.md                 # Project documentation
+
 ```
 
 ---
